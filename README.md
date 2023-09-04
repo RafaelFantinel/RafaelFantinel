@@ -22,7 +22,7 @@
 
 I'm a self-taught passionate BackEnd developer
 
-- 💼 BackEnd Developer at [ZENVIA](https://www.zenvia.com/)
+- 💼 Senior Software Engineer at [ZUP](https://www.zup.com.br/)
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RafaelFantinel-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/rafael-de-oliveira-fantinel-5246a2187)
 - 💬 Ask me about anything [here](https://github.com/RafaelFantinel/RafaelFantinel/issues)
 
