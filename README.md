@@ -1,48 +1,34 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+# Rafael Fantinel
 
-  <div id="badges">
-      <a href="https://br.linkedin.com/in/rafael-de-oliveira-fantinel-5246a2187">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-    </div>
-</div>
+**Tech Lead & Senior Software Engineer** na [Zup Innovation](https://www.zup.com.br/),
+alocado no Itaú. 7+ anos construindo sistemas backend escaláveis.
 
-<div align="center">
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+## 🔧 O que eu faço
+
+- Lidero squads de backend no desenvolvimento de APIs e microsserviços de alta performance
+- Arquiteturas distribuídas com **Java**, **Spring Boot**, **Kafka** e **SQS**
+- Cloud na **AWS** (ECS, DynamoDB) com **Docker** e **Kubernetes**
+- Padrões técnicos, revisões de arquitetura, CI/CD e cultura de code review
+
+## 🛠️ Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+## 📚 Atualmente
+
+- MBA em Arquitetura Full Cycle (2026)
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelfantinel/)
 
 ---
 
-### :man_technologist: About Me :
+[![Stats](https://github-readme-stats-fast.vercel.app/api?username=RafaelFantinel)]
 
-I'm a self-taught passionate BackEnd developer
-
-- 💼 Senior Software Engineer at [ZUP](https://www.zup.com.br/)
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RafaelFantinel-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/rafael-de-oliveira-fantinel-5246a2187)
-- 💬 Ask me about anything [here](https://github.com/RafaelFantinel/RafaelFantinel/issues)
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
-  <img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/> 
-  <img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"/>
-  <img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-  <img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
-  <img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
-  <img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-  <img height="20" alt="spring" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"/>
-
-</div>
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelFantinel&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rafael Fantinel github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFantinel&layout=compact&theme=buefy&hide_border=true" /> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
-<br />
